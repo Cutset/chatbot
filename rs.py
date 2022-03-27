@@ -122,20 +122,6 @@ if __name__ == "__main__":
     df = data_cleaning("all_drinks.csv")
     all_ing, set_ing = dico_ingredients(df)
     occurences = occurences_ingredient(all_ing, set_ing)
-    print("5 MOST COMMON INGREDIENTS : ", most_common_ingredients(occurences, 5))
-    print("results RS : ", rs(["vodka",
-            "gin",
-            "sugar",
-            "orange juice",
-            "lemon juice",
-            "lemon",
-            "ice",
-            "light rum",
-            "triple sec",
-            "amaretto",
-            "water",
-            "grenadine"], df))
-    print(levenshtein_d("aple",set_ing))
 
 
 
