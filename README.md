@@ -24,6 +24,6 @@ Finally, we have the RS. It is checking for each cocktail in the dataframe if th
 **How to connect:**
 
 To connect the chatbot you need to run the code, it will print in the terminal all the setup steps of the recommendation system. Then when it prints “Le bot est prêt” you can go to the discord channel and type “cocktail” and then you just have to follow the instructions. Copy on the very last line the token as a string. 
-Connect to the discord server using this link: https://discord.com/channels/956558372637904916/956558372637904919
+Connect to the discord server using this link: https://discord.gg/WAbaF8HpfR
 
 by Nicolas Vanderstigel, and Constantin Testu
