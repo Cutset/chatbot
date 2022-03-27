@@ -202,4 +202,4 @@ async def on_member_join(member):
     general_channel:discord.TextChannel = client.get_channel(956558372637904919)
     await general_channel.send(content=f'Bienvenue, {member.display_name} tu es un gros bolosse  !')
 
-client.run('OTU2NTU1ODM1NDI3OTM0MjQ4.Yjx8Cw.bYlzZkq51o3RfG5qD6G2FaceenE')
+client.run('INSERT TOKEN HERE')
